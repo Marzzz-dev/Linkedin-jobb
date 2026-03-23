@@ -17,7 +17,7 @@ pkg install nano -y
 pkg update && pkg upgrade
 
 # Clone repo
-git clone https://github.com/Whois-MArzz/linkedin-bot.git
+git clone https://github.com/Marzzz-dev/Linkedin-jobb.git
 cd linkedin-bot
 
 # Jalankan
