@@ -2,7 +2,7 @@
 # ============================================
 # LINKEDIN AUTO APPLY BOT v3.0
 # Author: @Whois_Marzz
-# Auto apply jobs based on role & skill match
+# auto Job aply di linkedin wok 😹, boleh di fork trus di rinem
 # ============================================
 
 R='\033[0;31m'
