@@ -1,0 +1,28 @@
+# Python
+*.pyc
+__pycache__/
+*.pyo
+*.pyd
+
+# Credentials (PENTING!)
+~/.linkedin_email
+~/.linkedin_pass
+~/.linkedin_role
+*.json
+
+# Report & Log
+*.csv
+*.log
+*.txt
+
+# Session
+auth_info/
+session/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
